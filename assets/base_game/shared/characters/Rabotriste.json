@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-309
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-298
+			],
+			"anim": "dialogo",
+			"fps": 25,
+			"name": "Voz",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rabotriste",
+	"position": [
+		-20,
+		0
+	],
+	"healthicon": "invi",
+	"flip_x": true,
+	"healthbar_colors": [
+		132,
+		50,
+		0
+	],
+	"camera_position": [
+		470,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

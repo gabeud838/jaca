@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-199,
+				-181
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-180
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-212,
+				-186
+			],
+			"anim": "thinking",
+			"fps": 24,
+			"name": "GF Thinking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-31
+			],
+			"anim": "place",
+			"fps": 24,
+			"name": "Gf Place Door",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "close",
+			"fps": 24,
+			"name": "GF Close",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-9
+			],
+			"anim": "open",
+			"fps": 24,
+			"name": "GF Open",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1023,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stolen",
+			"indices": [],
+			"name": "GF Stolen"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-97
+			],
+			"anim": "break",
+			"fps": 24,
+			"name": "GF Break",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "invi",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-90,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
