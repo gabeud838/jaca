@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				23,
+				9
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Titi_Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				536,
+				1268
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "abduzcan",
+			"loop": false,
+			"name": "Titi flotando"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/titianim",
+	"position": [
+		-540,
+		460
+	],
+	"healthicon": "titi",
+	"flip_x": false,
+	"healthbar_colors": [
+		17,
+		92,
+		-2147483648
+	],
+	"camera_position": [
+		-660,
+		-310
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
