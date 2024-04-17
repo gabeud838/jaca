@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titianim.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Titi flotando0000" x="100" y="100" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0001" x="100" y="100" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0002" x="1124" y="100" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0003" x="2148" y="100" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0004" x="3172" y="100" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0005" x="3172" y="100" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0006" x="4196" y="100" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0007" x="5220" y="100" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0008" x="6244" y="100" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0009" x="100" y="1874" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0010" x="1124" y="1874" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0011" x="2148" y="1874" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0012" x="3172" y="1874" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0013" x="4196" y="1874" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0014" x="5220" y="1874" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0015" x="6244" y="1874" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0016" x="100" y="3648" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0017" x="1124" y="3648" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0018" x="2148" y="3648" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0019" x="3172" y="3648" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0020" x="4196" y="3648" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0021" x="5220" y="3648" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0022" x="6244" y="3648" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0023" x="100" y="5422" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0024" x="1124" y="5422" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0025" x="2148" y="5422" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0026" x="3172" y="5422" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0027" x="4196" y="5422" width="924" height="1674"/>
+	<SubTexture name="Titi flotando0028" x="5220" y="5422" width="924" height="1674"/>
+	<SubTexture name="Titi_Idle0000" x="6244" y="5422" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0001" x="6244" y="5422" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0002" x="6743" y="5422" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0003" x="6743" y="5422" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0004" x="7242" y="5422" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0005" x="7242" y="5422" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0006" x="100" y="7196" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0007" x="100" y="7196" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0008" x="599" y="7196" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0009" x="599" y="7196" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0010" x="599" y="7196" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0011" x="599" y="7196" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0012" x="599" y="7196" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0013" x="599" y="7196" width="399" height="344"/>
+	<SubTexture name="Titi_Idle0014" x="599" y="7196" width="399" height="344"/>
+</TextureAtlas>
