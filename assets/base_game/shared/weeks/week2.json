@@ -1,22 +1,49 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "karmafunk",
+	"difficulties": "No, Noob, Karma",
+	"hideFreeplay": false,
+	"weekBackground": "titi",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"tnt",
+			"titi",
+			[
+				0,
+				115,
+				0
+			]
+		],
+		[
+			"titi",
+			"titi",
+			[
+				0,
+				115,
+				0
+			]
+		],
+		[
+			"watashidake",
+			"wither",
+			[
+				60,
+				20,
+				135
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "titi week"
 }

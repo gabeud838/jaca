@@ -1,22 +1,31 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+	"storyName": "karmafunk",
+	"difficulties": "Karma",
+	"hideFreeplay": false,
+	"weekBackground": "titi",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
 	"weekBefore": "week2",
-	"weekName": "Week 3",
 	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"last_words",
+			"rubius",
+			[
+				180,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "titi week"
 }
